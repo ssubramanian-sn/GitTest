@@ -1,0 +1,9 @@
+2014-01-24 11:16:36|Starting Build|11.217.1.10|
+2014-01-24 11:16:36|Source Folder|E:\GIT\GitTest|
+2014-01-24 11:16:36|Build Bat File|E:\GIT\GitTest\Build\snAppBuilder.ini|
+2014-01-24 11:16:36|Updating build Version|E:\GIT\GitTest\VBFindTool\Project1.vbp|Success
+2014-01-24 11:16:37|Compiling Project|E:\GIT\GitTest\VBFindTool\Project1.vbp|Fail
+2014-01-24 11:16:42|Stage File |E:\GIT\GitTest\VBFindTool\Project1.vbp|Success
+2014-01-24 11:16:42|Commit File |E:\GIT\GitTest\VBFindTool\Project1.vbp|Success
+2014-01-24 11:21:32|Completing Build|11.217.1.10|
+2014-01-24 11:21:32|Build |11.217.1.10|Fail
