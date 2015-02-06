@@ -263,6 +263,8 @@ Private Sub cmdGetIni_Click()
    
    On Error GoTo SubError:
    
+   'nEW LINE ADDED IN OLDER VERSION
+   
    If Len(lblRemakeIniFile.Caption) > 0 Then
       sIniFile = lblRemakeIniFile.Caption
       cd1.FileName = sIniFile
