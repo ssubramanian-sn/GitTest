@@ -265,6 +265,8 @@ Private Sub cmdGetIni_Click()
    
    'This line is added in the latest version
    
+   'This is the change in my laptop
+   
    If Len(lblRemakeIniFile.Caption) > 0 Then
       sIniFile = lblRemakeIniFile.Caption
       cd1.FileName = sIniFile
