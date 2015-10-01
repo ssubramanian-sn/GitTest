@@ -1,0 +1,15 @@
+This file is added under 11.217.1 branch folder
+
+This is my change to test stash function
+
+This change is on my new cloned branch
+
+<<<<<<< HEAD
+
+This is my change in vm42
+=======
+This is new change in my laptop
+>>>>>>> 45ec04ac6f17b3613a74396b8b6507c3d52da774
+
+
+This is final change
