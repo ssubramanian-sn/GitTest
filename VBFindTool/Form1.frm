@@ -288,6 +288,7 @@ Dim oFolder As Object
 Dim oFile As Object
 Dim sNewLocal As String
 Dim sNewRemote As String
+Dim sNewVariable As String
 
 Dim objTextOut As TextStream
 
