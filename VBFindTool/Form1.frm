@@ -289,6 +289,7 @@ Dim oFile As Object
 Dim sNewLocal As String
 Dim sNewRemote As String
 Dim sNewVariable As String
+Dim sNewmergevariablefromremote As String
 
 Dim objTextOut As TextStream
 
