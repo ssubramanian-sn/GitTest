@@ -290,6 +290,7 @@ Dim sNewLocal As String
 Dim sNewRemote As String
 Dim sNewVariable As String
 Dim sNewmergevariablefromremote As String
+Dim sNewMergedvariablefromlocal As String
 
 Dim objTextOut As TextStream
 
