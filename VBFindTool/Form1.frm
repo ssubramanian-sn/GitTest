@@ -286,6 +286,7 @@ Dim objSheet As Excel.Worksheet
 Dim oShell As Shell
 Dim oFolder As Object
 Dim oFile As Object
+Dim sNewRemote As String
 
 Dim objTextOut As TextStream
 
